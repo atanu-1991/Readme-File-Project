@@ -4,5 +4,5 @@ Netflix, YouTube, Tinder, and Amazon are all examples of recommender systems in 
 
 |SNo| Topic | Sub Topic | Link |
 |-|-|-|-|
-|-| Introduction | [Explanation video link](https://www.youtube.com/watch?v=GW7B6vwktPA&t=23s)
+|00| Introduction |Introduction part 1| [Explanation video link](https://www.youtube.com/watch?v=GW7B6vwktPA&t=23s)
 
