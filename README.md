@@ -1,5 +1,5 @@
 # Recommendation System
-<img src = "https://github.com/atanu-1991/Readme-File-Project/blob/main/thumbnail.png", alt='MLBC'>
+<img src = "https://github.com/atanu-1991/Readme-File-Project/blob/main/thumbnail.png"alt='MLBC'>
 
 Netflix, YouTube, Tinder, and Amazon are all examples of recommender systems in use. The systems entice users with relevant suggestions based on the choices they make. Recommender systems can also enhance experiences for: News Websites.
 
