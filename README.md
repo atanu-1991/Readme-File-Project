@@ -24,3 +24,8 @@ Netflix, YouTube, Tinder, and Amazon are all examples of recommender systems in 
 |04| Introduction |Introduction part 1| [Explanation video link](https://www.youtube.com/watch?v=GW7B6vwktPA&t=23s)
 |05| Introduction |Introduction part 1| [Explanation video link](https://www.youtube.com/watch?v=GW7B6vwktPA&t=23s)
 |-|-|-|-|
+
+|Name| Youtube Channel | Github |
+|-|-|-|
+|Atanu Kundu| [Youtube Link](https://www.youtube.com/@engineeringwalabhaiya)| [Github](https://github.com/atanu-1991)
+|-|-|-|
